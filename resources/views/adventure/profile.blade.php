@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Profile</title></head><body style="font-family:system-ui;background:#f5f5f5;padding:40px;"><h1>👤 Profile</h1><p>Profile details coming soon...</p></body></html>

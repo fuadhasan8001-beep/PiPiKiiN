@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Teacher Dashboard</title></head><body style="font-family:system-ui;background:#f5f5f5;padding:40px;"><h1>📚 Teacher Dashboard</h1><p>Create quizzes, manage subjects, and view reports.</p></body></html>

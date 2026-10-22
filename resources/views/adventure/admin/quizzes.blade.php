@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Quizzes - Admin</title></head><body style="font-family:system-ui;padding:40px"><h1>🧩 Quizzes</h1><p>Quiz management coming soon...</p></body></html>

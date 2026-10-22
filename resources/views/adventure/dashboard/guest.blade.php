@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Guest Dashboard</title></head><body style="font-family:system-ui;background:#f5f5f5;padding:40px;"><h1>🎮 Welcome! Learn & Play</h1><p>Select a quiz, join a room, or practice solo.</p></body></html>

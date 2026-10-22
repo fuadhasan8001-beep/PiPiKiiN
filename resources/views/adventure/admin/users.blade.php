@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Users - Admin</title></head><body style="font-family:system-ui;padding:40px"><h1>👥 Users</h1><p>Users management coming soon...</p></body></html>
